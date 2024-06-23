@@ -1,0 +1,2 @@
+index method raises a value error if the given index is not in range .
+tuples and list can be converted into each other to change values of tuple as tuple are immutable.
