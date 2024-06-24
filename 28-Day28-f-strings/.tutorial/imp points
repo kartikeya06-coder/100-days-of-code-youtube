@@ -1,0 +1,5 @@
+If we want to display curly brackets then we have to use double curly brackets.Like this {{name}}
+Good example:
+price=49.0999
+txt=f"The price is {price: .2f}"
+# This will print the price value upto 2 decimal places.
