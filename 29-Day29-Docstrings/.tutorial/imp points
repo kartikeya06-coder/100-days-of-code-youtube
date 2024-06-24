@@ -1,0 +1,2 @@
+doc strings are different from comments. Never say them as comments
+Very imp point ----- A doc string just has to be after the function or class name for it to be called a doc string.
