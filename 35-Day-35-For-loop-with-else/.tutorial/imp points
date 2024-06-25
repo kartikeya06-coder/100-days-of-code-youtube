@@ -1,0 +1,5 @@
+We can you else statement with for loop
+This is also very frequently asked ques in job interviews.
+Basically it goes in the else statement only if the loop does not executes.
+Else will always after for loop terminates.
+Last iteration process hone ke baad hi else execute hoga . Agar beech mein break statement aa gaya to execute nahi hoga .
