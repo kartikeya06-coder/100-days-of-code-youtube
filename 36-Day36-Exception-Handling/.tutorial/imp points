@@ -1,0 +1,5 @@
+try:
+  # code
+except Exception as e:
+  print(e)
+# This except is to get the error as message as str printed and the next part of the code will still function properly.
