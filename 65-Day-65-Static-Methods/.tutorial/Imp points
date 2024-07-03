@@ -1,0 +1,2 @@
+Does a method in a class always require self keyword ? (Sometimes asked in interviews)
+Ans - Well no it is not always necessary to use self keyword . We can use the example of static method . It does not require self keyword .
